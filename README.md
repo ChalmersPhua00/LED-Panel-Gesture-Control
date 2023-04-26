@@ -6,4 +6,5 @@ We will employ the PAJ7620 Gesture Recognition Module to detect left, right, up,
 In addition, a tactile button will be added to each controller to provide extra input. In the case of this project, the LED panel is a canvas for pixelated drawing and coloring. Hence, the button act as a reset button to clear the canvas. Both gesture controllers will transmit signals to the LED panel's microcontroller. The microcontroller hosting the LED panel will be integrated with an RGB Matrix Shield to make the LED panel compatible with the microcontroller.
 
 <img width="418" alt="Screenshot 2023-04-26 at 11 31 31 AM" src="https://user-images.githubusercontent.com/107158272/234642294-4791e84a-d040-450a-bdb5-917031d26630.png">
-<img width="390" alt="Screenshot 2023-04-26 at 11 31 49 AM" src="https://user-images.githubusercontent.com/107158272/234642307-9b085b92-130c-4b06-9d63-8fdc9831a237.png">
+
+<img width="501" alt="Screenshot 2023-04-26 at 11 31 49 AM" src="https://user-images.githubusercontent.com/107158272/234642432-c176e709-cf3e-427d-b389-072727ca9bb8.png">
