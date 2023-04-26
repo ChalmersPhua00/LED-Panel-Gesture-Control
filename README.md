@@ -8,3 +8,14 @@ In addition, a tactile button will be added to each controller to provide extra 
 <img width="418" alt="Screenshot 2023-04-26 at 11 31 31 AM" src="https://user-images.githubusercontent.com/107158272/234642294-4791e84a-d040-450a-bdb5-917031d26630.png">
 
 <img width="501" alt="Screenshot 2023-04-26 at 11 31 49 AM" src="https://user-images.githubusercontent.com/107158272/234642432-c176e709-cf3e-427d-b389-072727ca9bb8.png">
+
+## Materials
+- Medium 16x32 RGB LED matrix panel - 6mm Pitch
+- Adafruit RGB Matrix Shield for Arduino
+- NRF24L01 Wireless Transceiver Module
+- PAJ7620 Gesture Recognition Sensor
+
+## References
+- Burgess, Phillip. “32X16 And 32x32 RGB Led Matrix.” Adafruit Learning System, https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/.
+- nRF24. “NRF24/RF24: OSI Layer 2 Driver for NRF24L01 on Arduino &amp; Raspberry Pi/Linux Devices.” GitHub, https://github.com/nRF24/RF24.
+- Seeed-Studio. “Seeed-Studio/gesture_paj7620.” GitHub, https://github.com/Seeed-Studio/Gesture_PAJ7620.
